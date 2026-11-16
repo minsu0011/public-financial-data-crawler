@@ -30,3 +30,5 @@ Windows에서는 `RUN_DISCOVER_ONLY.bat`, `RUN_RECOMMENDED.bat`, `RUN_MAXIMUM.ba
 수집 결과는 원천별 파일과 다운로드 기록으로 남습니다. 접근 제한, 링크 변경과 서버의 이어받기 지원 여부에 따라 완료 범위가 달라집니다.
 
 [데이터 안내](data/README.md) · [실행 확인 범위](docs/testing-notes.md) · [이용 조건](ATTRIBUTION.md)
+
+[전체 문서 안내](docs/README.md)
